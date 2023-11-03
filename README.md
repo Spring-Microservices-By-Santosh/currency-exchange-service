@@ -7,7 +7,7 @@ URL: http://localhost:8080/currency-exchange/from/CAD/to/INR
 
 Sample Response:
 
-<code>
+```json
 {
 "codeId": 1003,
 "codeFrom": "CAD",
@@ -15,7 +15,7 @@ Sample Response:
 "conversionRate": 50,
 "serviceName": "currency-exchange-service"
 }
-</code>
+```
 
 Other URLs:
 
