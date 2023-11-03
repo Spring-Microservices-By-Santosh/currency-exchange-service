@@ -25,3 +25,10 @@ http://localhost:8080/currency-exchange/from/EUR/to/INR
 
 http://localhost:8080/currency-exchange/from/AUD/to/INR
 
+# Data base
+In memory Database - H2
+
+Console: http://localhost:8080/h2-console
+
+![img.png](img.png)
+![img_1.png](img_1.png)
