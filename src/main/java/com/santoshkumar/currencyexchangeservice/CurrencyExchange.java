@@ -69,6 +69,14 @@ public class CurrencyExchange {
 		this.serviceName = serviceName;
 	}
 
-	
-
+	@Override
+	public String toString() {
+		return "CurrencyExchange{" +
+				"codeId=" + codeId +
+				", codeFrom='" + codeFrom + '\'' +
+				", codeTo='" + codeTo + '\'' +
+				", conversionRate=" + conversionRate +
+				", serviceName='" + serviceName + '\'' +
+				'}';
+	}
 }

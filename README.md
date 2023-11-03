@@ -23,7 +23,7 @@ http://localhost:8080/currency-exchange/from/USD/to/INR
 
 http://localhost:8080/currency-exchange/from/EUR/to/INR
 
-http://localhost:8080/currency-exchange/from/AUD/to/INR
+Failing URL for negative Test Case: http://localhost:8080/currency-exchange/from/AUD/to/INR
 
 # Data base
 In memory Database - H2
